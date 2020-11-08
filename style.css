@@ -6,15 +6,10 @@ html{
     width: 100%;
     height: 200px;
     background-color: gainsboro;
-    
 }
 .container-main{
     display: flex;
-}
-.container-section{
-    width: 50%;
-    height: 200px;
-    background-color: seagreen;
+    justify-content: space-between;
 }
 .container-section-promo{
     display: flex;
